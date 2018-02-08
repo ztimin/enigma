@@ -1,0 +1,14 @@
+{
+  "name": "enigma",
+  "version": "0.1.0",
+  "main": "start.js",
+  "description": "Enigma Machine",
+  "scripts": {},
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "node-nvidia-smi": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
